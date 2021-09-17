@@ -1,0 +1,5 @@
+Burger					100
+Pizza					210
+SHurama					210
+Rice					100
+Drinks					120
